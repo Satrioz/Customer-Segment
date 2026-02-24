@@ -27,7 +27,3 @@ Analisis ini menggunakan dataset kampanye pemasaran yang mencakup profil pelangg
 * **Family Segment**: Pelanggan dengan anak cenderung lebih sensitif terhadap promosi dan memiliki pola belanja yang berbeda.
 * **Campaign Response**: Identifikasi segmen mana yang paling responsif terhadap penawaran kampanye tertentu untuk meningkatkan ROI (Return on Investment).
 
-## 🚀 Cara Menjalankan
-1. Clone repositori ini:
-   ```bash
-   git clone [https://github.com/Satrioz/Customer-Segment.git](https://github.com/Satrioz/Customer-Segment.git)
